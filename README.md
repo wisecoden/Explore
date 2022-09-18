@@ -1,6 +1,6 @@
 <h1 align="center">  NL/W  </h1>
 
-![print](.gith/wisecoden.github.io_Explore_.png)
+![print](.gith/preview.png)
 #
 
 >Trilha Explore
