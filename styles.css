@@ -148,3 +148,8 @@ section ul li:hover{
    }
     
 }
+
+@viewport{
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
