@@ -1,6 +1,6 @@
 <h1 align="center">  NL/W  </h1>
 
-![print](.gith/preview.png)
+![print](.gith/newView.png)
 #
 
 >Trilha Explore
