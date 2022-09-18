@@ -151,5 +151,9 @@ section ul li:hover{
 
 @viewport{
     zoom: 1.0;
-    width: device-width;
+<<<<<<< HEAD
+    width: extend-to-zoom;
+=======
+    width: extend-to-zoom;
+>>>>>>> 93142fa156314738f8af7e233323bd1564b9bcbf
 }
