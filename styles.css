@@ -8,7 +8,7 @@ body{
     background-image: url(./img/Capa.png);
     background-position: top center;
     background-size: 100% auto;
-    background-color: #030303 ;
+    background-color: #121214;
     background-repeat: no-repeat;
 }
 
@@ -147,4 +147,9 @@ section ul li:hover{
     transform: translateY(0);
    }
     
+}
+
+@viewport{
+    zoom: 1.0;
+    width: device-width;
 }
