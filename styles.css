@@ -73,7 +73,7 @@ main section:nth-child(3){
 
 section{
         color: white;
-        background-image: linear-gradient(90deg, #02065F 0%, #3D44E6 50.52%, #02065F 100%);
+        background-image: linear-gradient(90deg, #4901A6 0%, #69439A 50.52%, #4901A6 100%);
         padding-top: 4px;
         border-radius: 10px;
 }
