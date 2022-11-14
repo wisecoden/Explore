@@ -124,6 +124,11 @@ section ul li:hover{
     display: flex; 
 }
 
+section a#email {
+    color: #A1A1AA;
+    cursor:help;
+}
+
 @keyframes top {
     from{
         opacity: 0;
