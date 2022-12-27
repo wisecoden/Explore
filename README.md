@@ -1,4 +1,4 @@
-<h1 align="center">  NL/W  </h1>
+<h1 align="center">  NLW  </h1>
 
 ![print](.gith/newView.png)
 #
@@ -25,4 +25,4 @@ Projeto construído com base no evento "Next Level Week - eSports" da Rocketseat
  
 
   
-![logo W em gradiente roxo](img/icon.png)
+![logo W em gradiente roxo](img/icon.png) 
