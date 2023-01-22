@@ -4,20 +4,16 @@
     box-sizing: border-box;
 }
 
-body{
-    background-image: url(./img/Capa.png);
-    background-position: top center;
-    background-size: 100% auto;
-    background-color: #121214;
-    background-repeat: no-repeat;
-}
-
 body *{
     font-family: 'Inter', sans-serif;
 }
 
-main *{
-    line-height: 160%;
+body{
+    background-image: url(./Capa.png);
+    background-position: top center;
+    background-size: 100% auto;
+    background-color: #121214;
+    background-repeat: no-repeat;
 }
 
 header{
@@ -44,6 +40,10 @@ header div:hover{
 header div img {
     width: 100%;
     border-radius: 50%;
+}
+
+main *{
+    line-height: 160%;
 }
 
 main{
@@ -126,7 +126,18 @@ section ul li:hover{
 
 section a#email {
     color: #A1A1AA;
-    cursor:help;
+    cursor:alias;
+}
+
+@media screen and (max-width: 480px){
+   .composers-liszt,  .films-list {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .contact-list{
+        display: block;
+    }
 }
 
 @keyframes top {
@@ -154,7 +165,3 @@ section a#email {
     
 }
 
-@viewport{
-    zoom: 1.0;
-    width: extend-to-zoom;
-}
