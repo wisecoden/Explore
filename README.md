@@ -24,5 +24,3 @@ Projeto construído com base no evento "Next Level Week - eSports" da Rocketseat
  weasley.nascimento@protonmail.ch
  
 
-  
-![logo W em gradiente roxo](img/icon.png) 
