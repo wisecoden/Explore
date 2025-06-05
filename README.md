@@ -6,10 +6,10 @@
 >Trilha Explore
 
 <h3 align="center">
-Projeto construído com base no evento 'Next Level Week - eSports' da Rocketseat e modificado ao meu gosto. Esse é o meu espaço. ! 
+Projeto construído com base no evento 'Next Level Week - eSports' da Rocketseat e modificado ao meu gosto.
 </h3>
 
-
+#
 [🔗 Acesse e Confira ! ](https://wisecoden.github.io/Explore/)
 
 ## ✔️ Tecnologias utilizadas 
@@ -21,6 +21,9 @@ Projeto construído com base no evento 'Next Level Week - eSports' da Rocketseat
  - Aplicar animações, adicionar borda colorida, etc.
 
  ## 💬 Contato
- weasley.nascimento@protonmail.ch
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:weasley.nascimento@protonmail.ch)
  
 
+---
+
+Feito by [Wisecode](https://github.com/wisecoden)
