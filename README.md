@@ -1,6 +1,6 @@
 <h1 align="center"> Next Level Week -  NLW  </h1>
 
-![print](./src/images/newView.png)
+![print](./assets/images/newView.png)
 
 #
 
